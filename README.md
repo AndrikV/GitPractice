@@ -1,5 +1,5 @@
-## GitPractice
-# Session 1
+# GitPractice
+## Session 1
 Here I got acquainted in more detail with  commands and opportunities of Git
 
 Here I logged some important practices.
@@ -20,4 +20,16 @@ Then I tried git log.
 
 Then I tried git checkout. When try to push, I find out that I can't push without special token. So I generated one. Then everything was OK.
 
-# Session 2
+## Session 2
+
+Tried to checkout by SHA.
+
+Tried to checkout -b name_of_branch.
+
+Tried to use git merge.
+
+I read about rebasing, but did not figure out how to use it yourself.
+
+Tried 'git cherry-pick SHA'. There was some confusings.
+
+Tried git stash.
